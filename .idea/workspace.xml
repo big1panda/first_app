@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c18912f9-2c16-4b01-910e-a781d8fb9c80" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="first_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,7 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/first_app@Production__first_app.coverage" NAME="Production: first_app Coverage Results" MODIFIED="1397488868010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="first_app" />
+    <SUITE FILE_PATH="coverage/first_app@Production__first_app.coverage" NAME="Production: first_app Coverage Results" MODIFIED="1397489324517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="first_app" />
     <SUITE FILE_PATH="coverage/first_app@production.coverage" NAME="production Coverage Results" MODIFIED="1397413588705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config/environments" MODULE_NAME="first_app" />
     <SUITE FILE_PATH="coverage/first_app@Development__first_app.coverage" NAME="Development: first_app Coverage Results" MODIFIED="1397415898568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="first_app" />
   </component>
@@ -84,8 +83,8 @@
       <file leaf-file-name="home.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35869566" vertical-offset="345" max-vertical-offset="1050">
-              <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.42391303" vertical-offset="345" max-vertical-offset="1080">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -912,8 +911,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35869566" vertical-offset="345" max-vertical-offset="1050">
-          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.42391303" vertical-offset="345" max-vertical-offset="1080">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
